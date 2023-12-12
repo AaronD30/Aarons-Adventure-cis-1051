@@ -1,0 +1,13 @@
+AudioStreamPlayer
+CollisionShape2D
+Area2D
+Sprite2D
+StaticBody2D
+Node2D
+AnimationPlayer
+AnimationTree
+RigidBody2D
+CharacterBody2D
+AnimatedSprite2D
+Camera2D
+TileMap

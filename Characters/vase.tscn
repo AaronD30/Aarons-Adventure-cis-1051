@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bqgm1icn5c6m4"]
+
+[ext_resource type="Texture2D" uid="uid://dxea0p4rvy47m" path="res://assets/Vases_AssetPack_By_VerzatileDev/Vases_AssetPack_By_VerzatileDev/VasesAssetPackTransparent.png" id="1_0uyad"]
+
+[node name="RigidBody2D" type="RigidBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_0uyad")
+hframes = 7
+vframes = 9

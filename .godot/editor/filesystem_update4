@@ -1,0 +1,12 @@
+res://Levels/game_level.tscn
+res://Characters/hero.tscn
+res://Characters/enemy.tscn
+res://Characters/treasure.tscn
+res://Characters/enemy_2.tscn
+res://Characters/enemy_3.tscn
+res://Characters/thekey.tscn
+res://Characters/thewall.tscn
+res://thekey_2.tscn
+res://Characters/theotherwall.tscn
+res://Characters/thekey_3.tscn
+res://Characters/thewall_3.tscn
